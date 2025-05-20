@@ -1,4 +1,4 @@
-# stm32-ml-orientation sensing
+# RealTime Orientation Detection Using EdgeML
 motion detection using a machine learning model on STM32L476RG, EDGE ML
 
 ---
